@@ -1,0 +1,19 @@
+{
+  "name": "ffmpeg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "keywords": [],
+  "author": "Dmitry Tkachenko<dima-tkachenko@mail.ru>",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.7"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3",
+    "@types/node": "^20.2.5"
+  }
+}
